@@ -6,5 +6,5 @@ y = "Those who know % s and those who %s" %(binary,do_not)
 print(x)
 print(y)
 
-print("I said: %s."%x)
-print("I also said: %s."%y)
+print("I said: %r."%x)
+print("I also said: %r."%y)
