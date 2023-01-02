@@ -5,7 +5,7 @@ print (formatter %("one", "two", "three", "four"))
 print (formatter %(True, False, False, True))
 print (formatter %(formatter, formatter, formatter, formatter))
 print (formatter %(
-    "I hd this thing.",
+    "I had this thing.",
     "That you could type up right.",
     "But it dign't sing",
     "So I said goodnight"
